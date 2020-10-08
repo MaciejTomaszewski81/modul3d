@@ -23,8 +23,8 @@ public class Product {
         System.out.println();
     }
     void getInfoWithCategory (){
-        System.out.println(category.categoryName);
-        System.out.println(category.categoryDecription);
+        System.out.println(category.Name);
+        System.out.println(category.Decription);
         System.out.println(name);
         System.out.println(description);
         System.out.println(price);

@@ -1,9 +1,9 @@
 public class Category {
-    String categoryName;
-    String categoryDecription;
+    String Name;
+    String Decription;
 
     Category(String catName, String catDescr) {
-        categoryName = catName;
-        categoryDecription = catDescr;
+        Name = catName;
+        Decription = catDescr;
     }
 }
